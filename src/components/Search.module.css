@@ -1,0 +1,26 @@
+.contenedor input{
+
+    background-color: rgba(238, 250, 241, 0.609);
+    border-radius: 5px;
+    font-style: oblique;
+    border: solid 1px rgba(61, 60, 60, 0.365);
+    
+
+    
+
+}
+
+.btn{
+    color:rgb(242, 223, 194);
+    background-color: rgba(18, 122, 18, 0.407);
+    border-radius: 5px;
+    border: solid 1px rgba(55, 53, 53, 0.495);
+    
+   
+    
+}
+
+.btn:hover{/*para que cuando el cursor pasa x arriba cambie el color y demas cosas*/
+    cursor:pointer;
+    background-color: rgba(30, 69, 30, 0.662);
+}
