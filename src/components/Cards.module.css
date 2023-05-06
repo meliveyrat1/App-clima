@@ -1,4 +1,7 @@
 .contenedor{
-    display:flex; /*para que me quede una tarjeta al lado de otra*/
-    justify-content: space-evenly; /*para que haya el mismo espacio entre tarjetas y los margenes*/
+    display:grid; /*para que me quede una tarjeta al lado de otra*/
+    justify-content:center; /*para que haya el mismo espacio entre tarjetas y los margenes*/
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
 }
